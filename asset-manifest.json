@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gopi-profile/static/css/main.44fd5715.chunk.css",
-    "main.js": "/gopi-profile/static/js/main.bf91aaa8.chunk.js",
-    "main.js.map": "/gopi-profile/static/js/main.bf91aaa8.chunk.js.map",
+    "main.js": "/gopi-profile/static/js/main.6b91d137.chunk.js",
+    "main.js.map": "/gopi-profile/static/js/main.6b91d137.chunk.js.map",
     "runtime-main.js": "/gopi-profile/static/js/runtime-main.1bb94307.js",
     "runtime-main.js.map": "/gopi-profile/static/js/runtime-main.1bb94307.js.map",
     "static/js/2.3274a4c0.chunk.js": "/gopi-profile/static/js/2.3274a4c0.chunk.js",
     "static/js/2.3274a4c0.chunk.js.map": "/gopi-profile/static/js/2.3274a4c0.chunk.js.map",
     "index.html": "/gopi-profile/index.html",
-    "precache-manifest.8ea8535d139a6cb0ec35298fab71207c.js": "/gopi-profile/precache-manifest.8ea8535d139a6cb0ec35298fab71207c.js",
+    "precache-manifest.48b4ef1a2993480c95be7bc41f8f33db.js": "/gopi-profile/precache-manifest.48b4ef1a2993480c95be7bc41f8f33db.js",
     "service-worker.js": "/gopi-profile/service-worker.js",
     "static/css/main.44fd5715.chunk.css.map": "/gopi-profile/static/css/main.44fd5715.chunk.css.map",
     "static/js/2.3274a4c0.chunk.js.LICENSE.txt": "/gopi-profile/static/js/2.3274a4c0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1bb94307.js",
     "static/js/2.3274a4c0.chunk.js",
     "static/css/main.44fd5715.chunk.css",
-    "static/js/main.bf91aaa8.chunk.js"
+    "static/js/main.6b91d137.chunk.js"
   ]
 }
