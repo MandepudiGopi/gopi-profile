@@ -1,0 +1,43 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Gopi M",
+                "role" : "Multi skill Trainer",
+                "email" : "gopi.g@apssdc.in",
+                "mobile": "+91 8500217817"
+            },
+            "education":[
+               
+                {
+                    "degree":"Graduation",
+                    "institution": "Computer Science, from NVR CET – Tenali, 2010-2014,60%"
+                },
+                {
+                    "degree":"Intermediate",
+                    "institution":"MPC, from Nirmala junior College,2008-2010,50%"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "SSC, from ZPH School, Nidamarru with 2007-2008,60%"
+                }
+            ],
+            "skill":[
+                {
+                    "t":"Web Technologies",
+                    "l":"HTML5,JavaScript,Bootstrap,CSS"
+                },
+                {
+                    "t":"Apps",
+                    "l":"Android,MIT App Inventor"
+                },
+                {
+                    "t":"Operating Systems",
+                    "l":"windows,Linux,"
+                }
+                
+            ]
+        }
+        
+    ]
+}
